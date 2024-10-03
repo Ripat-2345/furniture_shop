@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">FurnitureShopSubmissionDicoding</string>
+    <string name="about">About Me</string>
+    <string-array name="data_furniture_name">
+        <item>Sofa Modular Tiga Dudukan</item>
+        <item>Meja Kopi Kayu Solid</item>
+        <item>Rak Buku Geometris</item>
+        <item>Kursi Santai Kulit</item>
+        <item>Meja Makan Minimalis</item>
+        <item>Tempat Tidur King Size</item>
+        <item>Lemari Pakaian Sliding Door</item>
+        <item>Lampu Gantung Industrial</item>
+        <item>Nakas Kecil Kayu</item>
+        <item>Kursi Bar Kayu dan Besi</item>
+        <item>Meja Kerja dengan Laci</item>
+        <item>Buffet TV Modern</item>
+    </string-array>
+    <string-array name="data_furniture_price">
+        <item>Rp 5.500.000</item>
+        <item>Rp 2.000.000</item>
+        <item>Rp 1.750.000</item>
+        <item>Rp 4.200.000</item>
+        <item>Rp 3.800.000</item>
+        <item>Rp 7.500.000</item>
+        <item>Rp 6.000.000</item>
+        <item>Rp 950.000</item>
+        <item>Rp 900.000</item>
+        <item>Rp 1.200.000</item>
+        <item>Rp 2.500.000</item>
+        <item>Rp 3.300.000</item>
+    </string-array>
+    <string-array name="data_furniture_description">
+        <item>Sofa ini menawarkan kenyamanan maksimal dengan desain modular yang memungkinkan fleksibilitas dalam penataan ruang. Terbuat dari bahan kain linen berkualitas tinggi yang tidak mudah kusut dan mudah dibersihkan. Rangka kayu solid yang kuat memberikan daya tahan yang luar biasa. Bantalan dudukannya tebal dan empuk, sementara sandaran punggung memberikan dukungan optimal untuk relaksasi. Tersedia dalam berbagai pilihan warna modern seperti abu-abu muda, biru navy, dan krem, sehingga dapat menyesuaikan dengan berbagai gaya interior rumah.</item>
+        <item>Meja kopi ini dirancang dengan bentuk persegi yang sederhana namun modern. Terbuat dari kayu jati solid yang terkenal akan kekuatannya dan ketahanannya terhadap cuaca, meja ini mampu bertahan dalam jangka panjang. Kakinya terbuat dari besi hitam dengan finishing matte, memberikan tampilan yang kontras namun harmonis dengan permukaan kayu alami. Meja ini cocok untuk ruang tamu minimalis atau ruang keluarga yang mengusung tema rustic-industrial.</item>
+        <item>Rak buku ini memiliki desain geometris yang unik dan mencolok. Terbuat dari kayu oak yang diolah secara presisi dengan finishing natural, rak ini dapat menjadi pusat perhatian di ruang tamu atau ruang kerja Anda. Setiap rak tersusun dalam pola asimetris yang menarik, sehingga tidak hanya berfungsi sebagai penyimpan buku, tetapi juga sebagai elemen dekoratif. Rak ini dilengkapi dengan bracket untuk dipasang di dinding, memastikan kestabilan dan keamanan saat digunakan.</item>
+        <item>Kursi santai ini dibuat dari bahan kulit asli yang lembut dan tahan lama, memberikan kesan mewah di ruang mana pun. Kursinya dilengkapi dengan bantalan yang empuk dan desain ergonomis yang mendukung postur tubuh saat bersantai atau membaca buku. Kaki kursi berbahan besi dengan finishing krom memberikan tampilan modern sekaligus memastikan kekuatan dan stabilitas. Tersedia dalam berbagai pilihan warna seperti hitam, cokelat, dan beige, kursi ini dapat menambah kesan elegan di ruang tamu atau kamar tidur.</item>
+        <item>Meja makan ini didesain untuk Anda yang menyukai gaya minimalis. Terbuat dari kayu jati dengan finishing halus yang menampilkan serat kayu alami, meja ini dapat menampung hingga 6 orang. Kaki meja terbuat dari logam dengan lapisan powder coating hitam yang tahan karat, memberikan kontras yang indah dengan permukaan kayu. Desainnya yang sederhana dan elegan cocok untuk dapur atau ruang makan dengan konsep modern atau skandinavia. Permukaan meja yang luas membuatnya ideal untuk acara makan bersama keluarga atau teman.</item>
+        <item>Tempat tidur king size ini menawarkan kenyamanan dan kemewahan dengan desain modern klasik. Terbuat dari kayu mahoni pilihan yang kokoh, tempat tidur ini dilengkapi dengan headboard empuk yang dilapisi kain beludru halus, memberikan sentuhan elegan di kamar tidur Anda. Rangka tempat tidur dirancang untuk mendukung berbagai jenis kasur dengan sempurna, memberikan dukungan maksimal tanpa perlu penambahan spring bed. Tersedia dalam warna abu-abu tua dan krem yang netral, membuat tempat tidur ini mudah disesuaikan dengan berbagai dekorasi interior.</item>
+        <item>Lemari pakaian ini dirancang dengan pintu geser yang praktis, ideal untuk kamar dengan ruang terbatas. Terbuat dari kayu MDF dengan finishing laminasi yang tahan lama, lemari ini memiliki dua pintu geser yang dilengkapi dengan cermin besar pada salah satu pintunya, memungkinkan Anda untuk memeriksa penampilan dengan mudah. Di dalamnya terdapat rak dan gantungan yang luas, memungkinkan penyimpanan yang rapi dan terorganisir untuk pakaian, sepatu, serta aksesori lainnya. Desain minimalis dengan sentuhan modern menjadikan lemari ini cocok untuk berbagai gaya dekorasi kamar.</item>
+        <item>Lampu gantung ini mengusung gaya industrial yang kuat dengan material logam hitam dan detail pipa besi. Cocok untuk digunakan di ruang makan, dapur, atau ruang kerja, lampu ini memberikan pencahayaan yang terang dan efisien. Desainnya yang maskulin dan tegas akan melengkapi dekorasi ruangan dengan gaya urban atau industrial. Panjang kabelnya dapat disesuaikan sesuai dengan kebutuhan, membuat lampu ini fleksibel untuk dipasang di berbagai tinggi ruangan.</item>
+        <item>Nakas kecil ini sangat serbaguna dan ideal untuk ditempatkan di sebelah tempat tidur atau di ruang tamu sebagai meja samping. Terbuat dari kayu pinus yang diolah dengan teknik finishing natural, nakas ini memiliki dua laci yang cukup luas untuk menyimpan barang-barang kecil seperti buku, charger, atau kacamata. Desainnya yang sederhana namun elegan menjadikannya cocok untuk berbagai jenis interior, dari yang klasik hingga modern. Kaki-kakinya yang kokoh menjamin stabilitas nakas ini dalam penggunaan sehari-hari.</item>
+        <item>Kursi bar ini memiliki desain yang memadukan elemen kayu solid dan besi, menghasilkan tampilan yang maskulin dan kokoh. Dudukan kayu yang di-finishing halus memberikan kenyamanan saat digunakan, sementara rangka besi memberikan kekuatan ekstra serta stabilitas. Tingginya ideal untuk dipasangkan dengan meja dapur atau meja bar. Desain minimalis yang fungsional membuat kursi ini cocok digunakan di rumah dengan gaya industrial atau modern kontemporer.</item>
+        <item>Meja kerja ini dirancang untuk mendukung produktivitas dengan menyediakan ruang yang cukup untuk berbagai kebutuhan kerja. Terbuat dari kayu jati berkualitas dengan finishing matte, meja ini memiliki dua laci di bagian samping untuk menyimpan dokumen, alat tulis, atau barang-barang lain yang diperlukan saat bekerja. Permukaannya yang luas dapat menampung laptop, monitor, dan aksesori lainnya. Desainnya yang sederhana namun elegan sangat cocok untuk ruang kerja di rumah atau kantor dengan konsep minimalis.</item>
+        <item>Buffet TV ini menawarkan solusi penyimpanan yang elegan dan praktis untuk ruang keluarga. Terbuat dari kayu MDF dengan veneer kayu oak, buffet ini memiliki beberapa laci tersembunyi untuk menyimpan peralatan hiburan seperti remote, game console, atau DVD. Bagian atasnya yang luas dapat menampung TV hingga ukuran 55 inci. Desain modern dengan kaki logam memberikan tampilan yang ramping dan stylish, cocok untuk ruang tamu atau ruang keluarga yang mengusung gaya modern minimalis.</item>
+    </string-array>
+    <integer-array name="data_furniture_image">
+        <item>@drawable/three_seater_modular_sofa</item>
+        <item>@drawable/solid_wood_coffee_table</item>
+        <item>@drawable/geometric_bookshelf</item>
+        <item>@drawable/leather_lounge_chair</item>
+        <item>@drawable/minimalist_dining_table</item>
+        <item>@drawable/king_size_bed</item>
+        <item>@drawable/sliding_door_wardrobe</item>
+        <item>@drawable/industrial_hanging_lamp</item>
+        <item>@drawable/small_wooden_nightstand</item>
+        <item>@drawable/wood_iron_bar_chairs</item>
+        <item>@drawable/work_desk_with_drawers</item>
+        <item>@drawable/modern_tv_buffet</item>
+    </integer-array>
+</resources>

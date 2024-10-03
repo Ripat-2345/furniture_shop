@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FurnitureShopSubmissionDicoding" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/solid_brown</item>
+        <item name="colorOnPrimary">@color/super_light_brown</item>
+        <!-- Secondary brand color.-->
+        <item name="colorSecondary">@color/brown</item>
+        <item name="colorOnSecondary">@color/light_brown</item>
+    </style>
+
+    <style name="SplashScreenStyle" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/super_light_brown</item>
+    </style>
+</resources>

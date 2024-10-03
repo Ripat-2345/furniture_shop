@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/detail_furniture"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailFurniture">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar_detail_furniture"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:title="Detail Furniture"
+            android:background="@color/brown"
+            app:titleTextColor="@color/super_light_brown"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/detail_furniture_image"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_margin="20dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar_detail_furniture"
+            android:src="@drawable/ic_launcher_background"/>
+
+        <TextView
+            android:id="@+id/detail_furniture_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/solid_brown"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detail_furniture_image"
+            tools:text="@string/furniture_name"/>
+
+        <TextView
+            android:id="@+id/detail_furniture_price"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18sp"
+            android:textColor="@color/brown"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detail_furniture_name"
+            tools:text="@string/furniture_price"/>
+
+
+        <TextView
+            android:id="@+id/detail_furniture_description_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18sp"
+            android:textColor="@color/solid_brown"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detail_furniture_price"
+            android:text="Description"/>
+
+        <TextView
+            android:id="@+id/detail_furniture_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="14sp"
+            android:textColor="@color/brown"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detail_furniture_description_title"
+            tools:text="@string/furniture_name"/>
+
+        <Button
+            android:id="@+id/detail_furniture_btn"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginHorizontal="20dp"
+            android:background="@color/brown"
+            android:textColor="@color/super_light_brown"
+            app:layout_constraintTop_toBottomOf="@+id/detail_furniture_description"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:text="Buy Now"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
